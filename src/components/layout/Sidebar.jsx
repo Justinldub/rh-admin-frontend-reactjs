@@ -1,4 +1,4 @@
-
+import {React} from'react';
 
 function Sidebar() {
     return ( 
@@ -19,11 +19,11 @@ function Sidebar() {
           <span>Users</span>
         </a>
               </li>
-              <a className="nav-link " href = "/users">
+              <a className="nav-link " href = "/jobs">
           <i className="bi bi-briefcase"></i>
           <span>Jobs</span>
         </a>
-        <a className="nav-link ">
+        <a className="nav-link " href = "/agreements">
           <i className="bi bi-file-earmark-text"></i>
           <span>Aggrements</span>
         </a>

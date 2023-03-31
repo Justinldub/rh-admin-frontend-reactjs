@@ -1,10 +1,11 @@
+import {React} from'react';
 function Footer() {
     return (  
-        <footer id="footer" class="footer">
-    <div class="copyright">
+        <footer id="footer" className="footer">
+    <div className="copyright">
       &copy; Copyright <strong><span>Reliable Helpers INC</span></strong>. All Rights Reserved
     </div>
-    <div class="credits">
+    <div className="credits">
    
       Designed by <a href="">Enterprice Software Solution</a>
     </div>

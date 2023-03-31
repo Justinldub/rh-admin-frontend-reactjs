@@ -8,6 +8,7 @@ import './components/assets/vendor/quill/quill.snow.css';
 import './components/assets/vendor/quill/quill.bubble.css';
 import './components/assets/vendor/remixicon/remixicon.css';
 import './components/assets/css/style.css';
+import "./components/users.css";
 import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
